@@ -3,7 +3,7 @@ I also experiment with different things and mainly code in C#, C++ and Python
 
 I also make Pavlov VR maps and Gorilla Tag mods
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ernest326)](https://github.com/Ernest326/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ernest326&show_icons=true&theme=radical)
 
 
 
