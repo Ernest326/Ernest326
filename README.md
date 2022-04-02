@@ -7,7 +7,7 @@ I also make Pavlov VR maps and Gorilla Tag mods
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ernest326&layout=compact&theme=radical)
 
-<img src=https://niamhshaw.ie/wp-content/uploads/2021/05/Patreon-Button.png><a href="https://www.patreon.com/bePatron?u=36047230" data-patreon-widget-type="become-patron-button">Follow me on patreon!</a></img>
+<img src=https://niamhshaw.ie/wp-content/uploads/2021/05/Patreon-Button.png href=https://www.patreon.com/Ernest326></img>
 
 
 <!--
