@@ -1,4 +1,11 @@
-### Hi there 👋
+I am a young developer who specializes with game development.
+I also experiment with different things and mainly code in C#, C++ and Python
+
+I make Pavlov VR maps and Gorilla Tag mods
+
+https://camo.githubusercontent.com/fade50087bee8e1772de54e9f230f1e2c1baf1f914f858b122086192e7cec4a3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d46726f67446f6735362673686f775f69636f6e733d74727565267468656d653d7261646963616c
+
+
 
 <!--
 **Ernest326/Ernest326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
