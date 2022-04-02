@@ -6,9 +6,9 @@ I also make Pavlov VR maps and Gorilla Tag mods
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ernest326&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ernest326&layout=compact&theme=radical)
-
+<!--
 <img src=https://niamhshaw.ie/wp-content/uploads/2021/05/Patreon-Button.png href=https://www.patreon.com/Ernest326></img>
-
+-->
 
 <!--
 **Ernest326/Ernest326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
