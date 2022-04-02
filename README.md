@@ -7,6 +7,8 @@ I also make Pavlov VR maps and Gorilla Tag mods
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ernest326&layout=compact&theme=radical)
 
+<a href="https://www.patreon.com/bePatron?u=36047230" data-patreon-widget-type="become-patron-button">Follow me on patreon!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
 
 <!--
 **Ernest326/Ernest326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
