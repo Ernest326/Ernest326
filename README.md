@@ -1,7 +1,6 @@
-I am a young developer who specializes with game development.
-I also experiment with different things and mainly code in C#, C++ and Python
+Hey, I am a Computer Science student with a passion for technology and development!
 
-I also make Pavlov VR maps and Gorilla Tag mods
+I am a bored hobbyist who likes to explore different things and I'm always eager to learn something new through projects and experimenting
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ernest326&show_icons=true&theme=radical)
 
