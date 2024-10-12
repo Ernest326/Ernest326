@@ -26,7 +26,6 @@ and many more!
 Currently looking for any opportunities for internships in order to learn new skills, further develop my current skills and gain an insight into the Software Engineering industry
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ernest326&&compact=trueshow_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ernest326&compact=true&theme=radical)
   
 Thanks for reading my bio!😄
 
