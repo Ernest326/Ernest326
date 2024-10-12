@@ -11,7 +11,9 @@ I can program in (descending order of proficiency):
 - C
 - Lua
 - Rust(Currently learning)
-  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ernest326&&compact=trueshow_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ernest326&compact=true&theme=radical)
   
 Other than programming my other hobbies include:
 - Sketching/Drawing
@@ -23,8 +25,7 @@ Other than programming my other hobbies include:
 and many more!
   
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ernest326&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ernest326&theme=radical)
+
   
 Currently looking for any opportunities for internships in order to learn new skills, further develop my current skills and gain an insight into the Software Engineering industry
   
