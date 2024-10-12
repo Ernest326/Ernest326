@@ -2,8 +2,8 @@ Heyo!
 My name is Ernest and I am a Computer Science student with an interest in technology, programming, or anything creative at all  
 I am hobbyist and a jack of all trades who always strives to improve and learn new things :D  
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ernest326&&compact=trueshow_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ernest326&&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ernest326&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ernest326&compact=tru&theme=radical)
   
 I can program in (descending order of proficiency):
 - Python
