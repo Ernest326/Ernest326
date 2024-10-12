@@ -1,7 +1,7 @@
 Heyo!  
 My name is Ernest and I am a Computer Science student with an interest in technology, programming, or anything creative at all  
 I am hobbyist and a jack of all trades who always strives to improve and learn new things :D  
-
+  
 I can program in (descending order of proficiency):
 - Python
 - Java
@@ -11,8 +11,8 @@ I can program in (descending order of proficiency):
 - C
 - Lua
 - Rust(Currently learning)
-
-
+  
+  
 Other than programming my other hobbies include:
 - Sketching/Drawing
 - Music
@@ -21,13 +21,13 @@ Other than programming my other hobbies include:
 - 3D Modelling/Animation
 - Electronics/Engineering
 and many more!
-
-
+  
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ernest326&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ernest326&theme=radical)
-
+  
 Currently looking for any opportunities for internships in order to learn new skills, further develop my current skills and gain an insight into the Software Engineering industry
-
+  
 Thanks for reading my bio!😄
 
 <!--
