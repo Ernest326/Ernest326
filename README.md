@@ -1,13 +1,18 @@
-Heyo!  
-**My name is Ernest and I am a Computer Science student with an interest in technology, programming, or anything creative at all  
-I am hobbyist and a jack of all trades who always strives to improve and learn new things :D**
+## Hey There! 👋
 
-> [!NOTE]
-> Currently looking for any opportunities for internships in order to learn new skills, further develop my current skills and gain an insight into the Software Engineering industry
+My name is Ernest and I am a Computer Science student with an interest in technology, programming, or anything creative at all  
+I am hobbyist and a jack of all trades who always strives to improve and learn new things :D
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,rust,python,java,lua,arduino,blender,unity,unreal)](https://skillicons.dev)
+
+<details><summary>Github Stats</summary>
   
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ernest326&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ernest326&compact=true&theme=radical)
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ernest326&show_icons=true&theme=radical)  
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ernest326&compact=true&theme=radical) -->
+</details>
+
+
 
 ------
 I can program in (descending order of proficiency):
