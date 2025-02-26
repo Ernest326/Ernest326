@@ -1,6 +1,6 @@
 ## Hey There! 👋
 
-My name is Ernest and I am a Computer Science student with an interest in technology, programming, or anything creative at all  
+My name is Ernest and I am a Computer Science student with an interest in technology, programming, electronics and music 
 I am hobbyist and a jack of all trades who always strives to improve and learn new things :D
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,rust,python,java,lua,arduino,blender,unity,unreal)](https://skillicons.dev)
