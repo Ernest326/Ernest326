@@ -4,7 +4,6 @@ My name is Ernest and I am a Computer Science student with an interest in techno
 I am hobbyist and a jack of all trades who always strives to improve and learn new things :D
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,rust,python,java,lua,arduino,blender,unity,unreal)](https://skillicons.dev)
-
 <details><summary>Github Stats</summary>
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ernest326&show_icons=true&theme=radical)  
@@ -12,6 +11,7 @@ I am hobbyist and a jack of all trades who always strives to improve and learn n
   
 </details>
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ernestotresto&cover_image=true&theme=novatorem&show_offline=false&background_color=800080&interchange=false&bar_color=ffffff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 
 ------
