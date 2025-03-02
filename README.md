@@ -11,27 +11,29 @@ I am hobbyist and a jack of all trades who always strives to improve and learn n
   
 </details>
 
+  
+**Currently/Recently Listened to:**  
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ernestotresto&cover_image=true&theme=novatorem&show_offline=true&background_color=800080&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 ------
 I can program in (descending order of proficiency):
-- Python
-- Java
-- C++
-- C#
-- Javascript
-- C
+- Python <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" height="25" width="25" /> 
+- Java <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" height="25" width="25" /> 
+- C++ <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" height="25" width="25" /> 
+- C# <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%23.svg" height="25" width="25" /> 
+- Javascript <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" height="25" width="25" /> 
+- C <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" height="25" width="25" /> 
 - Lua
-- Rust(Currently learning)
+- Rust(Currently learning) <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/rust.svg" height="25" width="25" /> 
 ------
 Other than programming my other hobbies include:
-- Sketching/Drawing
-- Music
-- Working out/Sports
-- Playing Chess
-- 3D Modelling/Animation
-- Electronics/Engineering
+- Sketching/Drawing 🎨
+- Music 🎶
+- Working out/Sports 🏋️‍♂️
+- Playing Chess ♟️
+- 3D Modelling/Animation ⏹️
+- Electronics/Engineering 💡
 and many more!
 ------
 Thanks for reading my bio!😄
