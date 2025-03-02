@@ -4,7 +4,7 @@ My name is Ernest and I am a Computer Science student with an interest in techno
 I am hobbyist and a jack of all trades who always strives to improve and learn new things :D
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,rust,python,java,lua,arduino,blender,unity,unreal)](https://skillicons.dev)
-<details><summary>Github Stats</summary>
+<details><summary><b>Github Stats</b> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/github.svg" height="25" width="25" /> </summary>
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ernest326&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ernest326&compact=true&theme=radical)
