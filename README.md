@@ -11,7 +11,7 @@ I am hobbyist and a jack of all trades who always strives to improve and learn n
   
 </details>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ernestotresto&cover_image=true&theme=novatorem&show_offline=false&background_color=800080&interchange=false&bar_color=ffffff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ernestotresto&cover_image=true&theme=novatorem&show_offline=true&background_color=800080&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 ------
